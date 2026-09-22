@@ -1,0 +1,7 @@
+We used AI assistance during the development of our Graph Representations project to understand the assignment requirements, learn implementation concepts, improve code organization, and identify potential errors.
+
+AI tools were used to support our understanding of Python programming, graph representations, conversion techniques, testing, and benchmarking.
+
+We reviewed and modified the code, performed testing, and worked on understanding the implementation as a team. The benchmark results and analysis were based on our own execution and observations.
+
+AI was used as a learning and development aid, while the team was responsible for the final implementation, testing, and submission.
